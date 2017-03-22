@@ -1,0 +1,2 @@
+C:\Repo\GitHub\Xamarin\BookClient\BookClient\BookClient.UWP\BookClient.UWP.csproj;x86
+C:\Repo\GitHub\Xamarin\BookClient\BookClient\BookClient\BookClient.csproj;neutral
